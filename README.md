@@ -29,8 +29,8 @@ Here's a walkthrough of implemented user stories:
 <!-- <img src='https://imgur.com/a/tb5ZrZH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- <img src="https://imgur.com/a/tb5ZrZH.gif"/> -->
-
-[https://imgur.com/a/tb5ZrZH.gif]
+please click on the link to see the demo of the **SimpleToDO** app
+**https://imgur.com/a/tb5ZrZH.gif**
 
 <!-- GIF created with [LiceCap](http://www.cockos.com/licecap/). -->
 
