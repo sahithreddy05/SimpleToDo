@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Intially it was hard to understand, but later on after rewatching the videos then i was able to understand clearly.
 
 ## License
 
